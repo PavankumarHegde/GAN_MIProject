@@ -1,6 +1,9 @@
 # GAN_MIProject
 
 # Generative Adversarial Network
+Machine Intelligence Mini Project With Course Code: UE20CS302
+We used Preprocessing And MRI Based image generation
+
 
 1. Load the ipynb file into google colab: https://colab.research.google.com/
 ![image](https://user-images.githubusercontent.com/51742316/205226801-4fd71c8c-9f89-4970-b813-0bb7d28dcd83.png)
