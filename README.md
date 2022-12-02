@@ -1,8 +1,8 @@
-# GAN_MIProject
+# GANs MIProject
 
 # Generative Adversarial Network
 Machine Intelligence Mini Project With Course Code: UE20CS302
-We used Preprocessing And MRI Based image generation
+MRI Image generation with Preprocessing
 
 
 1. Load the ipynb file into google colab: https://colab.research.google.com/
@@ -24,8 +24,9 @@ We used Preprocessing And MRI Based image generation
 7. Finally after executing all the cells, we get, generated images folder in /content/ directory. So all the images generated after 50 epochs is stored there. 
 	• For ipynb for without preprocessing we get video of generated images in /content/MI directory . 
 	• For ipynb for with preprocessing we get video of generated images in /content/MI1 directory . 
+	
 	![image](https://user-images.githubusercontent.com/51742316/205227416-6efe9594-af6e-4ff5-b12e-92b5b541efb5.png)
 
 ![image](https://user-images.githubusercontent.com/51742316/205227668-ff55f953-bd9b-4bed-8b70-30265f22c8c7.png)
 
-8. To Run All You are supposed to delete gans_training.avi file that is generated
+8. To Run All once again, you are supposed to delete gans_training.avi file that is generated if present.
