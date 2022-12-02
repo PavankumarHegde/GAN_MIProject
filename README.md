@@ -23,3 +23,6 @@
 	• For ipynb for with preprocessing we get video of generated images in /content/MI1 directory . 
 	![image](https://user-images.githubusercontent.com/51742316/205227416-6efe9594-af6e-4ff5-b12e-92b5b541efb5.png)
 
+![image](https://user-images.githubusercontent.com/51742316/205227668-ff55f953-bd9b-4bed-8b70-30265f22c8c7.png)
+
+8. To Run All You are supposed to delete gans_training.avi file that is generated
